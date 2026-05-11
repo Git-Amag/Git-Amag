@@ -1,5 +1,5 @@
 # 💫 About Me:
-This GitHub page is for my personnal projects. <br>While I'm studying CS, I'm eager to learn and create more. <br>And here will be my portfolio. 
+This GitHub page is for my personnal projects. <br>While I'm studying CS, I'm eager to learn and create more.
 
 
 # 💻 Tech Stack:
